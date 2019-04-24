@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Militech';
+  src: url('Militech.eot');
+  src: url('Militech.eot?#iefix') format('embedded-opentype'),
+       url('Militech.svg#Militech') format('svg'),
+       url('Militech.ttf') format('truetype'),
+       url('Militech.woff') format('woff'),
+       url('Militech.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
